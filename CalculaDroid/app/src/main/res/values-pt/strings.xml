@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maintitle">Calculadora</string>
+    <string name="lbl_number1">Número 1</string>
+    <string name="lbl_number2">Número 2</string>
+    <string name="btnCalc">Calcular</string>
+</resources>
