@@ -1,0 +1,1 @@
+git config --system http.sslcainfo c:\git\mingw64\ssl\certs\ca-bundle.crt
