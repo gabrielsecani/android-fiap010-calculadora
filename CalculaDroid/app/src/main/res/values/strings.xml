@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculaDroid</string>
+    <string name="maintitle">Calculator</string>
+    <string name="lbl_number1">Number 1</string>
+    <string name="lbl_number2">Number 2</string>
+    <string name="btnCalc">Calculate</string>
+</resources>
